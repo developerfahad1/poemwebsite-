@@ -1,0 +1,40 @@
+li{
+    display: inline;
+    margin: 0px 3px;
+   
+}
+
+#div-one{
+    background-color: #00ffff;
+    padding: 20px;
+    text-align: center;
+    word-spacing: 25px;
+}
+
+H1{
+    text-align: center;
+    color: #ff9500;
+    font-size: 80px;
+}
+
+
+#div-two{
+    text-align: center;
+    font-size: 25px;
+    color: magenta;
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+    font-family: 'Poppins', sans-serif;
+}
+
+h3{
+    text-align: center;
+    color: #520202;
+}
+
+#div-four{
+        text-align: center;
+        font-size: 25px;
+        color: magenta;
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+        font-family: 'Mochiy Pop One', sans-serif;
+}
